@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Datasets
+data/
+
+# Environments
+.venv/
+env/
+venv/
+
+# Streamlit temporary logs
+st_out.txt
+st_err.txt
